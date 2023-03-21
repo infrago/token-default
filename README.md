@@ -1,2 +1,2 @@
 # token-default
-infra.go default token driver.
+infra.Go default token driver.
